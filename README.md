@@ -1,4 +1,5 @@
 # Tableau_project_querry
+
 /*
 
 Queries used for Tableau Project
@@ -180,3 +181,4 @@ From PortfolioProject..CovidDeaths
 --Where location like '%states%'
 Group by Location, Population, date
 order by PercentPopulationInfected desc
+
